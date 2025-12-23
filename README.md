@@ -26,6 +26,10 @@ Every obstacle becomes an opportunity to build something better.
   <a href="https://www.credly.com/badges/fe15b6f2-c026-4fee-86da-6bd6335bf37b/public_url" target="_blank">
     <img src="assets/cisco-python-badge.png" alt="Cisco Python Badge" width="100" />
   </a>
+
+  <a href="https://www.credly.com/badges/31b7c922-13ac-4996-842d-518fe03374d9/public_url" target="_blank">
+    <img src="assets/python-essentials-2.png" alt="Credly Certification Badge" width="100" />
+  </a>
 </div>
 
 ---
