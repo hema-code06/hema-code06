@@ -1,8 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&pause=1200&color=6B7280&center=true&vCenter=true&width=900&lines=✨+Welcome+to+my+GitHub+Space!+🌍;👋+I'm+Hema;)
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1400&color=3B82F6&center=true&vCenter=true&width=900&lines=💻+Full+Stack+Developer;🧠+Backend+Engineer;🤖+Python+%7C+AI+Enthusiast;)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&pause=1500&duration=3000&center=true&vCenter=true&width=950&lines=🌍+Welcome+to+my+GitHub+%7C+I'm+Hema;💻+Full+Stack+Developer+%7C+🧠+Backend+Engineer+%7C+🤖+Python+%26+AI+Enthusiast)
 
 </div>
 
