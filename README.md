@@ -1,8 +1,8 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&pause=1500&duration=3000&center=true&vCenter=true&width=950&lines=🌍+Welcome+to+my+GitHub+%7C+I'm+Hema;💻+Full+Stack+Developer+%7C+🧠+Backend+Engineer+%7C+🤖+Python+%26+AI+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&pause=1500&duration=3000&center=true&vCenter=true&width=950&lines=✨+Welcome+to+my+GitHub+Space!+🌍+%7C+👋+Hi!+This+is+Hema;💻+A+Full+Stack+Developer+%7C+🧠+Backend+Engineer+%7C+🤖+Python+%26+AI+Enthusiast)
 
-</div>
+
 
 ---
 
