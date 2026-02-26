@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&pause=1100&color=00F7FF&center=true&vCenter=true&width=950&lines=🚀+Welcome+to+Hema's+Dev+World;💻+Full+Stack+Developer;🧠+Backend+Engineer+%7C+API+Designer;🤖+Python+Developer+%26+AI+Enthusiast;)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=✨+Welcome+to+my+GitHub+Universe!;💻+I'm+Hema,+Full+Stack+Developer;🧠+Backend+Engineer+|+Logic+%26+API+Architect;🤖+Python+Developer+%26+AI+Enthusiast;)
 
 </div>
 
