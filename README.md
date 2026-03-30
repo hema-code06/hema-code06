@@ -24,7 +24,7 @@ Every obstacle becomes an opportunity to build something better.
 ### 🏅 Badge
 <div align="left">
     <a href="https://www.credly.com/badges/0d59da37-e4e7-419c-a8be-aedac4e991ac/public_url" target="_blank">
-    <img src="assets/ai-fundamentals-with-ibm-skillsbuild.png" alt="Credly Certification Badge" width="100" />
+    <img src="assets/ai-upskilling-certificate-technical-foundations.png" alt="Credly Certification Badge" width="100" />
   </a>
   <a href="https://www.credly.com/badges/0975c42b-1e63-4b81-9c16-988c3e5022ba/public_url" target="_blank">
     <img src="assets/ai-fundamentals-with-ibm-skillsbuild.png" alt="IBM AI Fundamentals Badge" width="100" />
