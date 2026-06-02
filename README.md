@@ -34,6 +34,10 @@
   <a href="https://www.credly.com/badges/31b7c922-13ac-4996-842d-518fe03374d9/public_url" target="_blank">
     <img src="assets/python-essentials-2.png" alt="Credly Certification Badge" width="100" />
   </a>
+
+  <a href="https://developers.google.com/profile/badges/activity/chrome-devtools/chrome-devtools-user" target="_blank">
+  <img src="assets/badge.svg" alt="Chrome DevTools User" width="100" />
+</a>
 </div>
 
 ---
